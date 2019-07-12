@@ -1,0 +1,70 @@
+@import "./styles/Navbar.scss";
+@import "./styles/Home.scss";
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  margin:0;
+
+}
+.Form-check {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;  
+  margin-right: 4px;
+  .form-form {
+    width: 160px;
+    margin-right: 5px;
+  }
+  a {
+    align-self: center;
+    color: rgb(13, 115, 146);
+    font-size: 20px;
+    border-bottom: 1px solid rgb(63, 151, 180);
+    border-top: 1px solid rgb(63, 151, 180);
+    margin-left: 10px;
+    margin-top:15px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  a:link{
+    text-decoration: none;  
+  }
+  a:hover {
+    color:rgb(7, 73, 94);
+    background: rgba(255, 255, 255, 0.342);
+  }
+}
+
+.card-home {
+  margin-top:40px;
+  display: flex;
+  justify-content: space-between;  
+  margin-left: 25px;  
+  margin-right: 25px;
+  margin-bottom: 40px;
+}
+
+.about-pic {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("/spawall.jpg");
+  background-size: cover;
+  padding: 108px;
+  .texto-about {
+    background:rgba(255, 255, 255, 0.349);
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+  } 
+}
