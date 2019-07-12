@@ -16,9 +16,9 @@ export default class Navbar extends Component {
               <li className="nav-item">
                 <a className="nav-link" href="/Sobre-nós">Sobre Nós <span className="sr-only">(current)</span></a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link" href="/Packages">Packages</a>
-              </li>
+              </li> */}
               <li className="nav-item">
                 <a className="nav-link" href="/Aqua-Card"><b>Aqua Salutis CARD</b></a>
               </li>

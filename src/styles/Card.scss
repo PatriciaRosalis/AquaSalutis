@@ -1,0 +1,28 @@
+
+.att-card {
+  display:flex;
+  flex-direction: row;
+  margin-left: 40px;
+}
+
+.vantagens {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#name {
+  width: 296px;
+  height: 77px;
+  margin-right: 100px;  
+  margin-left: 70px;
+  margin-top: 60px;
+}
+
+.both {
+  display: flex;
+  flex-direction: row;  
+  margin-top: 10px;
+  justify-content: space-between; 
+}
