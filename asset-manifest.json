@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AquaSalutis/static/css/main.b9c2ad2e.chunk.css",
+    "main.js": "/AquaSalutis/static/js/main.54d54ad8.chunk.js",
+    "main.js.map": "/AquaSalutis/static/js/main.54d54ad8.chunk.js.map",
+    "runtime~main.js": "/AquaSalutis/static/js/runtime~main.ca1e8a91.js",
+    "runtime~main.js.map": "/AquaSalutis/static/js/runtime~main.ca1e8a91.js.map",
+    "static/css/2.510409cd.chunk.css": "/AquaSalutis/static/css/2.510409cd.chunk.css",
+    "static/js/2.718d635d.chunk.js": "/AquaSalutis/static/js/2.718d635d.chunk.js",
+    "static/js/2.718d635d.chunk.js.map": "/AquaSalutis/static/js/2.718d635d.chunk.js.map",
+    "index.html": "/AquaSalutis/index.html",
+    "precache-manifest.889745166e2dfb6db248f6f716f2e013.js": "/AquaSalutis/precache-manifest.889745166e2dfb6db248f6f716f2e013.js",
+    "service-worker.js": "/AquaSalutis/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/AquaSalutis/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.b9c2ad2e.chunk.css.map": "/AquaSalutis/static/css/main.b9c2ad2e.chunk.css.map"
+  }
+}
