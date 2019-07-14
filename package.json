@@ -1,6 +1,7 @@
 {
   "name": "aqua",
   "version": "0.1.0",
+  "homepage":"https://patriciarosalis.github.io/AquaSalutis",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
