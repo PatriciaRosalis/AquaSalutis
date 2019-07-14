@@ -12,7 +12,6 @@ export default class Books extends Component {
         <br />
         <br />
         <br />
-          <hr/>
         <Form />
         <div className="att-card">
           <div className="both">
@@ -39,6 +38,7 @@ export default class Books extends Component {
             - Em ambos os casos, o seu cartão personalizado será enviado por correio, após a terceira utilização.<br />
           </p>
         </div>
+        <img id="aqua" width="100%" src="/agua.png" alt=""/>
       </div>
     )
   }
