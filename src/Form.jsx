@@ -4,7 +4,7 @@ export default class Form extends Component {
   render() {
     return (
       <div>
-        <form className="Form-check">
+        <form className="Form-check form-bg">
           <img src="/aquasalutis.png" alt="" width="180px" height="196px" />
           <div class="form-row">
             <div class="form-group col-md-6">

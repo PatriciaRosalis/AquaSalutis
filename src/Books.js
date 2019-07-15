@@ -30,7 +30,7 @@ export default class Books extends Component {
         </div>
         {/* <hr /> */}
         <div className="vantagens">
-          <p>
+          <p id="aderir">
             <b>Como aderir?</b> <br />
             <p></p>
             - Pode aderir de forma fácil e rápida neste site, preenchendo o formulário de adesão.<br />
